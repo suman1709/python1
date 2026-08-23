@@ -1,0 +1,151 @@
+Customer_ID,Customer_Name,Gender,City,Region,Customer_Segment
+C001,Anjali Kumar,Male,Gurgaon,North,Small Business
+C002,Kavita Kumar,Female,Patna,East,Corporate
+C003,Rahul Jain,Male,Mumbai,West,Corporate
+C004,Pooja Sharma,Female,Jaipur,North,Consumer
+C005,Rohan Yadav,Female,Bhubaneswar,East,Small Business
+C006,Anjali Verma,Female,Jaipur,North,Corporate
+C007,Kavita Mehta,Male,Ahmedabad,West,Corporate
+C008,Pooja Joshi,Male,Hyderabad,South,Small Business
+C009,Priya Joshi,Female,Bhubaneswar,East,Small Business
+C010,Vikas Jain,Female,Chennai,South,Small Business
+C011,Kavita Singh,Male,Delhi,North,Small Business
+C012,Kavita Joshi,Female,Gurgaon,North,Corporate
+C013,Priya Agarwal,Female,Ahmedabad,West,Small Business
+C014,Arjun Joshi,Female,Chennai,South,Small Business
+C015,Vikas Joshi,Male,Bhubaneswar,East,Corporate
+C016,Rahul Gupta,Female,Lucknow,North,Corporate
+C017,Rohan Agarwal,Female,Ahmedabad,West,Corporate
+C018,Arjun Sharma,Female,Bhubaneswar,East,Corporate
+C019,Pooja Kumar,Female,Lucknow,North,Consumer
+C020,Pooja Verma,Female,Bhubaneswar,East,Corporate
+C021,Neha Joshi,Male,Lucknow,North,Consumer
+C022,Rahul Agarwal,Male,Gurgaon,North,Consumer
+C023,Kavita Sharma,Female,Jaipur,North,Consumer
+C024,Anjali Jain,Female,Gurgaon,North,Small Business
+C025,Pooja Jain,Male,Ahmedabad,West,Small Business
+C026,Priya Joshi,Male,Bengaluru,South,Small Business
+C027,Arjun Joshi,Female,Bengaluru,South,Small Business
+C028,Vikas Sharma,Male,Pune,West,Consumer
+C029,Anjali Yadav,Male,Delhi,North,Small Business
+C030,Anjali Mehta,Female,Bhubaneswar,East,Consumer
+C031,Pooja Jain,Male,Kolkata,East,Small Business
+C032,Vikas Jain,Female,Pune,West,Small Business
+C033,Priya Kumar,Female,Mumbai,West,Consumer
+C034,Rahul Kumar,Male,Pune,West,Small Business
+C035,Pooja Sharma,Male,Ahmedabad,West,Small Business
+C036,Arjun Gupta,Male,Ahmedabad,West,Consumer
+C037,Rohan Joshi,Female,Kolkata,East,Corporate
+C038,Amit Yadav,Male,Hyderabad,South,Corporate
+C039,Vikas Mehta,Female,Kolkata,East,Corporate
+C040,Pooja Verma,Female,Kolkata,East,Consumer
+C041,Rahul Verma,Female,Ahmedabad,West,Corporate
+C042,Arjun Gupta,Male,Bhubaneswar,East,Consumer
+C043,Arjun Jain,Male,Bengaluru,South,Small Business
+C044,Arjun Jain,Male,Chennai,South,Corporate
+C045,Arjun Gupta,Male,Hyderabad,South,Consumer
+C046,Amit Verma,Male,Bhubaneswar,East,Small Business
+C047,Priya Kumar,Female,Pune,West,Small Business
+C048,Rohan Yadav,Male,Jaipur,North,Corporate
+C049,Rahul Joshi,Female,Lucknow,North,Consumer
+C050,Priya Singh,Male,Jaipur,North,Consumer
+C051,Arjun Jain,Female,Jaipur,North,Corporate
+C052,Vikas Yadav,Male,Lucknow,North,Corporate
+C053,Anjali Kumar,Female,Lucknow,North,Corporate
+C054,Rahul Joshi,Male,Hyderabad,South,Small Business
+C055,Rohan Verma,Female,Hyderabad,South,Corporate
+C056,Arjun Yadav,Male,Delhi,North,Small Business
+C057,Amit Jain,Male,Delhi,North,Consumer
+C058,Arjun Yadav,Female,Mumbai,West,Corporate
+C059,Anjali Joshi,Female,Pune,West,Consumer
+C060,Neha Gupta,Male,Patna,East,Consumer
+C061,Rohan Gupta,Male,Kolkata,East,Consumer
+C062,Arjun Agarwal,Female,Hyderabad,South,Corporate
+C063,Kavita Verma,Male,Ahmedabad,West,Consumer
+C064,Anjali Kumar,Female,Bengaluru,South,Small Business
+C065,Neha Agarwal,Male,Gurgaon,North,Small Business
+C066,Vikas Yadav,Male,Ahmedabad,West,Corporate
+C067,Neha Yadav,Female,Hyderabad,South,Small Business
+C068,Arjun Agarwal,Female,Kolkata,East,Consumer
+C069,Amit Agarwal,Male,Bhubaneswar,East,Small Business
+C070,Rahul Gupta,Male,Bhubaneswar,East,Corporate
+C071,Amit Verma,Male,Chennai,South,Consumer
+C072,Kavita Sharma,Female,Hyderabad,South,Small Business
+C073,Arjun Verma,Male,Mumbai,West,Small Business
+C074,Anjali Kumar,Female,Bhubaneswar,East,Consumer
+C075,Amit Mehta,Female,Ahmedabad,West,Corporate
+C076,Amit Joshi,Male,Chennai,South,Small Business
+C077,Kavita Agarwal,Female,Jaipur,North,Small Business
+C078,Arjun Sharma,Male,Pune,West,Small Business
+C079,Amit Sharma,Male,Ahmedabad,West,Small Business
+C080,Anjali Verma,Female,Jaipur,North,Consumer
+C081,Kavita Jain,Male,Mumbai,West,Consumer
+C082,Pooja Verma,Male,Hyderabad,South,Corporate
+C083,Priya Yadav,Female,Hyderabad,South,Consumer
+C084,Anjali Agarwal,Female,Mumbai,West,Consumer
+C085,Pooja Mehta,Female,Gurgaon,North,Consumer
+C086,Vikas Kumar,Female,Hyderabad,South,Small Business
+C087,Vikas Yadav,Male,Kolkata,East,Corporate
+C088,Anjali Yadav,Female,Ahmedabad,West,Corporate
+C089,Amit Agarwal,Male,Pune,West,Corporate
+C090,Priya Yadav,Female,Hyderabad,South,Corporate
+C091,Arjun Mehta,Male,Pune,West,Consumer
+C092,Rohan Mehta,Female,Lucknow,North,Corporate
+C093,Arjun Yadav,Female,Jaipur,North,Consumer
+C094,Arjun Kumar,Male,Bhubaneswar,East,Corporate
+C095,Rahul Joshi,Male,Bengaluru,South,Corporate
+C096,Amit Yadav,Female,Hyderabad,South,Corporate
+C097,Rahul Sharma,Male,Chennai,South,Consumer
+C098,Anjali Sharma,Male,Hyderabad,South,Small Business
+C099,Kavita Yadav,Male,Chennai,South,Small Business
+C100,Arjun Sharma,Male,Mumbai,West,Corporate
+C101,Pooja Singh,Male,Ahmedabad,West,Corporate
+C102,Kavita Joshi,Male,Delhi,North,Consumer
+C103,Vikas Sharma,Male,Chennai,South,Small Business
+C104,Pooja Yadav,Female,Pune,West,Corporate
+C105,Rohan Agarwal,Female,Bhubaneswar,East,Consumer
+C106,Amit Sharma,Female,Bhubaneswar,East,Corporate
+C107,Neha Yadav,Female,Patna,East,Small Business
+C108,Rohan Singh,Male,Bhubaneswar,East,Consumer
+C109,Pooja Jain,Male,Chennai,South,Small Business
+C110,Pooja Yadav,Female,Hyderabad,South,Consumer
+C111,Arjun Gupta,Female,Lucknow,North,Small Business
+C112,Kavita Singh,Male,Lucknow,North,Consumer
+C113,Vikas Kumar,Male,Ahmedabad,West,Consumer
+C114,Pooja Gupta,Female,Hyderabad,South,Small Business
+C115,Arjun Jain,Male,Kolkata,East,Small Business
+C116,Amit Gupta,Male,Ahmedabad,West,Consumer
+C117,Rohan Gupta,Male,Hyderabad,South,Small Business
+C118,Amit Agarwal,Male,Bengaluru,South,Small Business
+C119,Amit Gupta,Female,Lucknow,North,Small Business
+C120,Rohan Singh,Female,Delhi,North,Corporate
+C121,Amit Yadav,Male,Patna,East,Small Business
+C122,Pooja Sharma,Male,Delhi,North,Corporate
+C123,Anjali Sharma,Male,Chennai,South,Consumer
+C124,Vikas Joshi,Male,Gurgaon,North,Consumer
+C125,Pooja Singh,Female,Mumbai,West,Small Business
+C126,Vikas Agarwal,Female,Patna,East,Consumer
+C127,Pooja Kumar,Female,Bengaluru,South,Consumer
+C128,Priya Verma,Female,Ahmedabad,West,Small Business
+C129,Priya Gupta,Male,Ahmedabad,West,Corporate
+C130,Vikas Sharma,Male,Ahmedabad,West,Small Business
+C131,Rohan Yadav,Female,Bengaluru,South,Corporate
+C132,Rohan Yadav,Female,Kolkata,East,Consumer
+C133,Arjun Singh,Female,Pune,West,Corporate
+C134,Arjun Yadav,Female,Delhi,North,Corporate
+C135,Anjali Kumar,Male,Bhubaneswar,East,Corporate
+C136,Priya Jain,Male,Delhi,North,Small Business
+C137,Kavita Verma,Female,Patna,East,Small Business
+C138,Kavita Agarwal,Male,Kolkata,East,Corporate
+C139,Rahul Verma,Female,Mumbai,West,Consumer
+C140,Rahul Sharma,Male,Chennai,South,Small Business
+C141,Anjali Gupta,Female,Lucknow,North,Consumer
+C142,Pooja Singh,Female,Bengaluru,South,Small Business
+C143,Vikas Sharma,Female,Bengaluru,South,Small Business
+C144,Pooja Singh,Male,Ahmedabad,West,Corporate
+C145,Pooja Kumar,Male,Bhubaneswar,East,Consumer
+C146,Rahul Kumar,Female,Kolkata,East,Corporate
+C147,Arjun Yadav,Female,Pune,West,Small Business
+C148,Anjali Jain,Male,Delhi,North,Small Business
+C149,Neha Jain,Male,Chennai,South,Consumer
+C150,Vikas Verma,Male,Bhubaneswar,East,Corporate

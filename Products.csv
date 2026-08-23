@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Cost
+P001,Laptop,Electronics,Basic,150,89.28
+P002,Monitor,Electronics,Basic,800,536.55
+P003,Keyboard,Electronics,Basic,1200,730.48
+P004,Mouse,Electronics,Basic,150,106.88
+P005,Webcam,Electronics,Premium,35000,23776.85
+P006,Headphones,Electronics,Premium,2500,1758.53
+P007,Printer,Electronics,Premium,1200,788.89
+P008,Office Chair,Furniture,Premium,5000,3824.08
+P009,Executive Chair,Furniture,Premium,600,419.87
+P010,Office Desk,Furniture,Basic,2500,1542.51
+P011,Standing Desk,Furniture,Premium,400,226.03
+P012,Bookshelf,Furniture,Basic,600,369.59
+P013,Filing Cabinet,Furniture,Basic,35000,23044.63
+P014,Pen Set,Office Supplies,Basic,800,602.95
+P015,Marker Set,Office Supplies,Basic,5000,3379.57
+P016,Notebook,Office Supplies,Premium,5000,3371.25
+P017,Printer Paper,Office Supplies,Basic,2500,1686.46
+P018,Stapler,Office Supplies,Premium,600,384.23
+P019,Paper Clips,Office Supplies,Basic,250,139.31
+P020,USB Cable,Mobile Accessories,Standard,1800,1220.14
+P021,Type-C Cable,Mobile Accessories,Premium,2500,1732.96
+P022,Phone Stand,Mobile Accessories,Basic,400,235.14
+P023,Tablet Stand,Mobile Accessories,Premium,600,434.37
+P024,Power Bank,Mobile Accessories,Standard,1800,1397.2
+P025,Fast Charger,Mobile Accessories,Basic,35000,23018.28

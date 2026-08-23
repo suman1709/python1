@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_ID,Product_ID,Salesperson_ID,Quantity,Discount,Payment_Mode,Sales_Channel,Order_Status
+O0001,2025-09-18,C079,P024,S002,6,0.2,Cash,Store,Completed
+O0002,2025-12-08,C137,P017,S010,6,0.1,Bank Transfer,Distributor,Completed
+O0003,2024-01-14,C108,P017,S014,7,0.2,Cash,Online,Returned
+O0004,2024-12-30,C008,P004,S008,4,0.05,Bank Transfer,Distributor,Returned
+O0005,2025-04-29,C041,P014,S017,4,0.1,UPI,Distributor,Completed
+O0006,2024-04-13,C030,P007,S013,2,0.15,Cash,Distributor,Completed
+O0007,2025-03-02,C061,P011,S010,1,0.0,UPI,Store,Completed
+O0008,2025-04-16,C106,P004,S021,2,0.05,Bank Transfer,Store,Completed
+O0009,2024-05-07,C023,P012,S008,3,0.15,Bank Transfer,Online,Returned
+O0010,2026-02-10,C034,P003,S001,8,0.15,UPI,Store,Returned
+O0011,2024-03-03,C115,P016,S012,2,0.0,Bank Transfer,Online,Returned
+O0012,2025-10-17,C018,P009,S023,4,0.15,UPI,Store,Completed
+O0013,2024-01-12,C037,P020,S020,5,0.1,Bank Transfer,Online,Completed
+O0014,2025-01-08,C020,P014,S029,2,0.2,Cash,Store,Returned
+O0015,2026-05-28,C149,P010,S008,3,0.2,Bank Transfer,Store,Completed
+O0016,2025-07-22,C065,P017,S015,5,0.15,Cash,Online,Returned
+O0017,2024-06-15,C092,P017,S010,5,0.1,UPI,Distributor,Completed
+O0018,2024-01-02,C051,P020,S020,6,0.1,UPI,Distributor,Completed
+O0019,2025-02-19,C109,P020,S015,7,0.0,Cash,Store,Returned
+O0020,2025-08-21,C084,P019,S013,6,0.0,Cash,Store,Completed
+O0021,2026-03-22,C065,P016,S001,6,0.15,Bank Transfer,Online,Completed
+O0022,2026-06-03,C076,P018,S018,1,0.0,Cash,Store,Completed
+O0023,2025-01-28,C077,P023,S009,1,0.05,Credit Card,Online,Completed
+O0024,2024-08-22,C046,P002,S023,6,0.2,Bank Transfer,Online,Completed
+O0025,2024-10-23,C033,P004,S028,7,0.05,UPI,Distributor,Completed
+O0026,2024-04-17,C019,P019,S028,7,0.0,Credit Card,Store,Completed
+O0027,2026-02-13,C074,P014,S030,6,0.2,Bank Transfer,Online,Completed
+O0028,2025-02-28,C080,P005,S009,3,0.2,Bank Transfer,Distributor,Completed
+O0029,2024-03-11,C117,P019,S014,8,0.15,Credit Card,Online,Completed
+O0030,2026-03-07,C025,P005,S014,4,0.1,Bank Transfer,Distributor,Completed
+O0031,2024-07-29,C083,P006,S025,5,0.0,UPI,Online,Returned
+O0032,2025-01-30,C020,P012,S013,2,0.0,Cash,Distributor,Completed
+O0033,2024-10-10,C142,P008,S007,6,0.1,UPI,Store,Completed
+O0034,2026-04-23,C140,P003,S023,4,0.15,Cash,Online,Completed
+O0035,2024-06-02,C050,P018,S009,2,0.15,Cash,Distributor,Returned
+O0036,2025-01-06,C049,P007,S025,3,0.1,Bank Transfer,Online,Completed
+O0037,2025-09-30,C074,P018,S002,6,0.05,Cash,Store,Completed
+O0038,2024-11-08,C039,P009,S015,7,0.0,Credit Card,Store,Completed
+O0039,2024-09-21,C107,P003,S016,6,0.1,Cash,Online,Completed
+O0040,2024-03-10,C075,P025,S014,2,0.05,Credit Card,Distributor,Completed
+O0041,2024-01-31,C081,P007,S001,6,0.0,Cash,Store,Returned
+O0042,2025-11-30,C086,P018,S024,4,0.0,Cash,Distributor,Returned
+O0043,2025-12-02,C126,P023,S014,1,0.1,Cash,Online,Completed
+O0044,2025-07-22,C135,P012,S026,7,0.2,UPI,Distributor,Completed
+O0045,2025-03-19,C120,P022,S002,1,0.15,Credit Card,Distributor,Returned
+O0046,2025-02-17,C031,P023,S030,6,0.0,Cash,Online,Completed
+O0047,2025-03-08,C058,P021,S007,5,0.05,Bank Transfer,Distributor,Completed
+O0048,2024-05-04,C010,P024,S017,8,0.1,Credit Card,Store,Completed
+O0049,2026-04-14,C051,P023,S020,5,0.05,Cash,Store,Completed
+O0050,2025-03-08,C112,P018,S014,4,0.0,Bank Transfer,Store,Completed
+O0051,2026-06-14,C056,P020,S018,8,0.1,Cash,Distributor,Completed
+O0052,2026-01-19,C085,P018,S003,4,0.1,Credit Card,Online,Returned
+O0053,2024-06-29,C057,P024,S025,4,0.1,Bank Transfer,Store,Returned
+O0054,2024-02-13,C071,P024,S029,5,0.0,UPI,Store,Returned
+O0055,2024-12-10,C018,P025,S013,7,0.1,Bank Transfer,Online,Completed
+O0056,2025-12-16,C072,P004,S023,1,0.2,Credit Card,Online,Completed
+O0057,2026-04-09,C148,P011,S008,5,0.2,Cash,Online,Completed
+O0058,2024-06-23,C145,P009,S025,8,0.1,Bank Transfer,Distributor,Completed
+O0059,2026-02-24,C141,P005,S009,5,0.15,UPI,Online,Returned
+O0060,2024-04-05,C095,P013,S025,1,0.2,UPI,Online,Completed
+O0061,2024-01-17,C011,P021,S011,3,0.0,UPI,Store,Completed
+O0062,2026-02-26,C005,P019,S004,8,0.0,Credit Card,Distributor,Completed
+O0063,2025-05-19,C052,P008,S002,6,0.15,UPI,Online,Completed
+O0064,2024-11-15,C135,P017,S016,8,0.2,UPI,Store,Returned
+O0065,2026-05-24,C020,P004,S010,7,0.05,Cash,Online,Completed
+O0066,2024-01-06,C048,P001,S008,4,0.0,UPI,Store,Completed
+O0067,2025-10-06,C053,P001,S001,5,0.05,Bank Transfer,Online,Returned
+O0068,2024-03-29,C111,P016,S004,6,0.1,Credit Card,Distributor,Completed
+O0069,2024-02-15,C021,P005,S014,8,0.0,UPI,Online,Returned
+O0070,2025-04-30,C006,P011,S026,8,0.2,Credit Card,Distributor,Completed
+O0071,2024-07-27,C131,P003,S024,4,0.05,Bank Transfer,Online,Completed
+O0072,2025-05-13,C026,P017,S014,2,0.1,UPI,Online,Completed
+O0073,2024-10-26,C126,P001,S022,7,0.15,Cash,Store,Completed
+O0074,2025-07-11,C081,P002,S014,7,0.05,Cash,Online,Returned
+O0075,2025-05-25,C107,P017,S005,6,0.2,Bank Transfer,Online,Completed
+O0076,2025-07-15,C024,P005,S009,2,0.15,Credit Card,Store,Completed
+O0077,2024-08-17,C105,P013,S026,3,0.2,Credit Card,Distributor,Completed
+O0078,2025-11-05,C045,P001,S017,3,0.1,Credit Card,Distributor,Completed
+O0079,2024-01-28,C076,P005,S013,3,0.2,Credit Card,Store,Completed
+O0080,2026-03-14,C094,P002,S013,1,0.0,Bank Transfer,Online,Completed
+O0081,2024-05-05,C081,P004,S015,1,0.0,Credit Card,Online,Completed
+O0082,2024-12-17,C046,P013,S019,6,0.15,Credit Card,Distributor,Returned
+O0083,2025-06-22,C036,P015,S013,1,0.2,Credit Card,Online,Returned
+O0084,2025-10-05,C028,P006,S004,4,0.2,Cash,Store,Completed
+O0085,2025-04-11,C011,P001,S006,3,0.05,Bank Transfer,Distributor,Returned
+O0086,2025-09-07,C086,P007,S009,4,0.05,Bank Transfer,Store,Returned
+O0087,2026-06-10,C082,P011,S002,2,0.05,Cash,Online,Completed
+O0088,2026-01-18,C014,P014,S007,8,0.0,Bank Transfer,Online,Completed
+O0089,2024-06-22,C070,P008,S008,6,0.0,Bank Transfer,Store,Completed
+O0090,2024-02-06,C143,P021,S014,1,0.0,Cash,Store,Completed
+O0091,2024-04-20,C100,P003,S002,4,0.0,Credit Card,Online,Completed
+O0092,2024-01-02,C041,P004,S012,3,0.0,Cash,Distributor,Completed
+O0093,2024-03-27,C070,P018,S029,3,0.2,Cash,Online,Completed
+O0094,2024-10-22,C030,P019,S001,3,0.05,Bank Transfer,Distributor,Completed
+O0095,2026-04-25,C059,P012,S026,3,0.0,Credit Card,Online,Completed
+O0096,2024-08-09,C134,P022,S023,7,0.05,Bank Transfer,Distributor,Returned
+O0097,2025-05-12,C102,P002,S010,1,0.1,Cash,Online,Completed
+O0098,2026-05-13,C100,P017,S023,6,0.1,Credit Card,Store,Completed
+O0099,2026-02-13,C115,P014,S009,2,0.05,Bank Transfer,Store,Completed
+O0100,2026-01-19,C114,P013,S013,1,0.1,Bank Transfer,Online,Completed
+O0101,2025-09-19,C059,P013,S024,1,0.1,Cash,Online,Completed
+O0102,2025-08-11,C101,P012,S015,1,0.2,Bank Transfer,Online,Completed
+O0103,2025-03-13,C068,P023,S008,4,0.05,Bank Transfer,Distributor,Completed
+O0104,2025-02-02,C140,P016,S015,2,0.0,Bank Transfer,Store,Completed
+O0105,2024-10-20,C103,P020,S010,1,0.05,Bank Transfer,Online,Completed
+O0106,2024-11-16,C107,P018,S008,3,0.15,Bank Transfer,Distributor,Completed
+O0107,2025-05-03,C087,P013,S017,7,0.1,UPI,Store,Completed
+O0108,2025-07-13,C015,P016,S018,3,0.0,Credit Card,Distributor,Returned
+O0109,2024-06-24,C047,P002,S019,8,0.15,Cash,Online,Returned
+O0110,2024-03-31,C029,P001,S001,8,0.15,UPI,Online,Completed
+O0111,2026-02-14,C131,P005,S006,1,0.15,UPI,Online,Returned
+O0112,2025-09-23,C038,P020,S017,5,0.1,Credit Card,Store,Completed
+O0113,2024-02-22,C098,P024,S026,3,0.1,Cash,Online,Completed
+O0114,2026-05-17,C120,P025,S015,5,0.15,Bank Transfer,Store,Completed
+O0115,2024-06-18,C054,P004,S014,8,0.15,Bank Transfer,Distributor,Completed
+O0116,2024-03-27,C074,P003,S023,6,0.05,Cash,Store,Returned
+O0117,2025-10-19,C101,P015,S005,6,0.05,UPI,Distributor,Completed
+O0118,2026-03-27,C054,P007,S006,2,0.05,Bank Transfer,Distributor,Returned
+O0119,2025-06-06,C107,P019,S006,3,0.15,UPI,Online,Completed
+O0120,2026-02-27,C031,P006,S029,5,0.15,UPI,Store,Completed
+O0121,2025-11-17,C033,P021,S024,6,0.05,Credit Card,Online,Returned
+O0122,2024-10-28,C044,P011,S013,6,0.15,Credit Card,Store,Completed
+O0123,2025-05-14,C104,P007,S010,6,0.05,Bank Transfer,Online,Returned
+O0124,2026-01-06,C067,P011,S001,2,0.0,Cash,Store,Completed
+O0125,2025-02-24,C009,P019,S014,6,0.2,Cash,Store,Completed
+O0126,2024-01-29,C118,P021,S009,6,0.0,Cash,Distributor,Completed
+O0127,2024-01-01,C029,P007,S026,4,0.0,Cash,Store,Completed
+O0128,2024-09-21,C008,P018,S023,4,0.15,UPI,Distributor,Completed
+O0129,2026-04-28,C108,P003,S030,1,0.0,UPI,Online,Completed
+O0130,2025-12-30,C074,P009,S010,7,0.0,Cash,Online,Completed
+O0131,2025-05-14,C090,P024,S022,4,0.2,Credit Card,Online,Completed
+O0132,2025-11-15,C044,P012,S010,1,0.2,Credit Card,Distributor,Completed
+O0133,2025-07-17,C130,P020,S027,1,0.1,Cash,Online,Completed
+O0134,2026-03-19,C077,P006,S008,8,0.05,Credit Card,Distributor,Returned
+O0135,2025-10-23,C145,P025,S015,6,0.0,Bank Transfer,Distributor,Completed
+O0136,2024-10-22,C037,P009,S015,5,0.1,UPI,Store,Completed
+O0137,2025-09-12,C129,P002,S024,7,0.1,Cash,Distributor,Completed
+O0138,2025-03-23,C036,P025,S011,3,0.2,Cash,Store,Returned
+O0139,2024-03-18,C134,P014,S023,4,0.1,UPI,Distributor,Completed
+O0140,2025-02-12,C021,P007,S012,8,0.1,UPI,Store,Completed
+O0141,2024-06-10,C107,P021,S013,2,0.1,Credit Card,Online,Completed
+O0142,2025-04-22,C021,P009,S008,1,0.15,Cash,Store,Returned
+O0143,2025-03-30,C099,P007,S022,7,0.2,UPI,Distributor,Completed
+O0144,2024-11-11,C070,P003,S017,7,0.0,Credit Card,Distributor,Completed
+O0145,2024-02-16,C110,P020,S021,6,0.15,Credit Card,Online,Completed
+O0146,2024-07-11,C150,P022,S028,6,0.1,Bank Transfer,Online,Completed
+O0147,2026-01-16,C115,P025,S012,7,0.15,UPI,Store,Completed
+O0148,2025-12-07,C072,P023,S013,7,0.1,UPI,Online,Completed
+O0149,2024-01-14,C048,P017,S027,5,0.2,Cash,Online,Completed
+O0150,2026-04-21,C142,P001,S026,3,0.1,Bank Transfer,Distributor,Returned
+O0151,2025-07-01,C017,P016,S013,8,0.2,Cash,Distributor,Returned
+O0152,2026-03-02,C031,P016,S020,8,0.2,Cash,Store,Returned
+O0153,2024-12-13,C106,P014,S001,6,0.1,Cash,Distributor,Completed
+O0154,2026-05-15,C106,P016,S002,8,0.2,Cash,Online,Completed
+O0155,2025-02-05,C048,P009,S025,5,0.2,Bank Transfer,Online,Returned
+O0156,2025-04-08,C067,P017,S029,4,0.15,Cash,Online,Completed
+O0157,2024-05-22,C004,P003,S019,2,0.15,Credit Card,Online,Completed
+O0158,2024-07-28,C084,P015,S011,1,0.1,UPI,Store,Returned
+O0159,2025-04-23,C130,P011,S023,5,0.1,Bank Transfer,Distributor,Completed
+O0160,2024-01-31,C029,P013,S019,3,0.2,Credit Card,Distributor,Completed
+O0161,2024-05-23,C115,P003,S016,5,0.1,UPI,Distributor,Completed
+O0162,2024-08-04,C082,P004,S004,6,0.2,Credit Card,Store,Returned
+O0163,2024-07-12,C104,P013,S016,5,0.15,UPI,Store,Returned
+O0164,2024-07-19,C036,P008,S003,3,0.1,Cash,Online,Returned
+O0165,2025-05-05,C030,P008,S006,8,0.1,Cash,Online,Completed
+O0166,2024-08-16,C011,P019,S025,7,0.1,Credit Card,Distributor,Completed
+O0167,2024-11-12,C053,P004,S010,4,0.05,Cash,Distributor,Completed
+O0168,2026-03-20,C132,P025,S007,2,0.1,Cash,Store,Completed
+O0169,2026-06-11,C075,P003,S026,6,0.2,Bank Transfer,Store,Completed
+O0170,2026-05-20,C121,P003,S005,6,0.05,UPI,Distributor,Completed
+O0171,2025-10-12,C037,P013,S012,2,0.0,Bank Transfer,Online,Returned
+O0172,2026-04-19,C087,P018,S008,6,0.2,UPI,Online,Returned
+O0173,2026-04-08,C020,P002,S023,6,0.05,Bank Transfer,Store,Completed
+O0174,2025-03-15,C006,P011,S012,2,0.2,Credit Card,Online,Completed
+O0175,2026-05-14,C010,P015,S003,5,0.15,Cash,Store,Completed
+O0176,2025-04-05,C046,P023,S006,4,0.1,Credit Card,Online,Completed
+O0177,2024-06-01,C103,P023,S011,5,0.2,UPI,Distributor,Completed
+O0178,2024-08-13,C061,P017,S026,5,0.05,UPI,Store,Completed
+O0179,2025-12-11,C109,P004,S030,3,0.05,Bank Transfer,Store,Completed
+O0180,2024-08-26,C085,P010,S018,4,0.1,Cash,Store,Completed
+O0181,2024-11-11,C090,P003,S020,6,0.1,Credit Card,Distributor,Completed
+O0182,2025-09-02,C139,P003,S015,1,0.05,Bank Transfer,Online,Completed
+O0183,2025-12-08,C143,P015,S007,1,0.05,Bank Transfer,Store,Completed
+O0184,2026-05-31,C106,P017,S001,6,0.15,Bank Transfer,Online,Completed
+O0185,2026-01-21,C030,P022,S026,4,0.15,Bank Transfer,Online,Completed
+O0186,2024-12-15,C062,P019,S026,3,0.1,Bank Transfer,Store,Completed
+O0187,2025-04-10,C010,P024,S024,8,0.05,UPI,Distributor,Completed
+O0188,2025-08-05,C013,P018,S013,3,0.15,Bank Transfer,Online,Completed
+O0189,2025-03-07,C071,P009,S011,3,0.15,Cash,Online,Returned
+O0190,2025-10-12,C142,P025,S001,5,0.05,UPI,Online,Completed
+O0191,2025-12-11,C027,P016,S006,7,0.0,Cash,Distributor,Completed
+O0192,2024-06-21,C086,P004,S011,3,0.0,Bank Transfer,Distributor,Completed
+O0193,2025-05-10,C103,P015,S024,6,0.05,Bank Transfer,Online,Completed
+O0194,2025-07-29,C023,P017,S030,6,0.2,Credit Card,Distributor,Completed
+O0195,2026-04-18,C041,P019,S020,1,0.15,Bank Transfer,Online,Completed
+O0196,2024-08-17,C023,P015,S011,8,0.0,Bank Transfer,Online,Completed
+O0197,2025-02-08,C097,P016,S013,5,0.1,Bank Transfer,Distributor,Returned
+O0198,2025-06-07,C062,P016,S014,2,0.15,Bank Transfer,Distributor,Returned
+O0199,2025-12-21,C016,P007,S030,5,0.05,Credit Card,Store,Completed
+O0200,2025-12-23,C148,P014,S023,7,0.0,Credit Card,Store,Completed
